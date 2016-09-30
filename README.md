@@ -17,3 +17,6 @@ current efficient market theory is posed and a profitable investment opportunity
   For the past decades, this theory has been advocated by many famous investors including
 Warrent Buffet, Laurence Tisch and Michael Larson, but whether their success is due to this
 theory or luck is up to further research and analysis.
+
+ A full description of our topic and how we are going to approach this topic can be found in
+ the Project_proposal.pdf file.
